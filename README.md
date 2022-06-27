@@ -1,1 +1,1 @@
-# Java Script Pre Reads of Thoughtworks
+# JavaScript Pre Reads of Thoughtworks

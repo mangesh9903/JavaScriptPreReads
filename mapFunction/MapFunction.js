@@ -6,6 +6,7 @@ const arr = [10, 2, 5, 1, 3, 6, 8, 3];
 function double(x) {
     return x * 2;
 }
+
 const doubleOutput = arr.map(double);
 console.log(doubleOutput);
 
@@ -13,6 +14,7 @@ console.log(doubleOutput);
 function triple(x) {
     return x * 3;
 }
+
 const tripleOutput = arr.map(triple);
 console.log(tripleOutput);
 
